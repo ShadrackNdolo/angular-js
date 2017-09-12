@@ -1,0 +1,22 @@
+{
+  "name": "angular2",
+  "authors": [
+    "Ndolo S <shadrack.winters@outlook.com>"
+  ],
+  "description": "Learning angular js",
+  "main": "index.js",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "moment": "^2.18.1",
+    "jquery": "^3.2.1"
+  }
+}
